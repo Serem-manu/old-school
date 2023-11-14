@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.heading h3 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.dream {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.dream img {
+  width: 150px; /* Set your desired width */
+  height: 150px; /* Set your desired height */
+  margin: 10px; /* Adjust margin as needed */
+}
+
+.btn a {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+  border-radius: 5px;
+  font-weight: bold;
+}
